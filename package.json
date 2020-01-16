@@ -5,7 +5,7 @@
   "homepage": "https://github.com/kevinleemoody/Monsters-Rolodex ",
   "dependencies": {
     "deploy-app": "^1.0.3",
-    "gh-pages": "^2.2.0",
+    "predeploy-builder": "^1.1.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
@@ -32,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
